@@ -1,4 +1,4 @@
-name: build
+name: buildfork
 on:
   workflow_dispatch:
   
